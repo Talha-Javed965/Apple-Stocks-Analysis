@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "financial-dataanalysis",
+  "private_key_id": "09e1f2b7543514b11bb2aea149f5d10560d13f23",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDWAaB9HsPoRxyn\n3LjwPaha8yvAYjtZVlEm9amYo95eE4qzxruoFfyWDCZDL1xK/Z7Skn9PPbIXz7rb\nqlen+nEexBGghU/syYUBYrIvLHp+LNg8HFNOHvkn4bDP/wyvddJyivV2eRfYBxBS\n78Zl7jrlO6BGbW/OX9/KXUWYT/b62zuCngduz3bBLrzFY0Na7GUmseiShuBafF4C\nFAOOWMVt3i983mXpqLQ7s2fR/ZXvE+Cbh8bDVtBNQ3tPxO7wF14tyWbI+GGvHlrK\nbAsLIfI1Q9xVT/VAhzQCNMicW9mjXhM9mUT+wao953alyFXUffR3viXn2PAUWet/\nlCpACGcFAgMBAAECggEAAsDKAUIPkCHpQ8MqdLPxjs+So2qmfwHSxAo+A8yVeqby\ntL+P2dvQ84porADK30LmM6kWm5Z2GSm4qpHFVE/7yFyj9pyW1VUXiz4ef7SpRybc\nvOBtm+z4rjAp/gsDoHagd41dFtVikddjBayEl2DnGULZAku76y8L9uAxs7UEchN9\ntQDZplDoCdFG6O5aIA2r+HH7m32HmxcdycT89w85u3TMrMqmcqu0b9KNCYxqvkLW\n8ayRVlVL6+4k6NzVqCQbUbgLX0WfHoillRdFdCbP/vELITcBH2Bjn5da+ol0fGAz\n1KihKCc/r7icXYybqelB/hZCQL9Tak6d0x8KtgKKkQKBgQD0kJj/olDAe1NW/ILo\njxJrAfucHyO5QnjRY6fuD4D1voRqGpIHqwIT1UMnfcCfSKNaE325vSoNrICZBOE1\nBSc1jEY33VgvyGbw0uk4H3U0wJpf01GA7abuRpJyoUR0nP1xeWePSAwH1wSjTVvD\nYJ3hhwKy+21Y8URstY1/INBSaQKBgQDgAz/E2yyXQ4twxie5Qeh74lmsC4+jJ9Or\n7bXMLpftekt9i443R/ytHUuF3POLp1NIhg/gmeLWW0Sl7TPpebDkVY1rMDCcAc/C\n1MncyDB5wfUKgMylVlWCIhbSYo/nJ/5+OMYvijGo6LGMdRDHAdIySv08Yz3XzXpT\nLMAAVp4kPQKBgQCzWIaakLGfNdE77Rki6iibiGy3ZK6R4QkwpGA11/C+ReRc2vdT\n4Dg5yx7gCvwC0wXXvItqdiostN/pVwbAFvNV9XRY610MTW4QFNsqaQdOlB+hPhp6\n7cyI1//1SAYnbij92gXzsOYBqdCg4M32TRf6l0OHdZIOs392KP2GyM18YQKBgQC2\nL25Jd8dILlLVoRLlhEjDmE89sRlcpCNujKFyMeK17ORAcqNzKkTBtjWZ5Rzd03PU\nY9O94umtVAT8vXGezK2kxj+BkWu3NXH3DoAt41IpdCkKJb5KKXDZqUfOSwKmCMzd\ncucb+tRwfu8HQJ4oe76r0HksB7pgLGj0BE0S+V8cMQKBgQCL+WfnssGJTOr72aAi\nJbKAAaUq4glhHf1PwnzV8/KCcg94fhOsGhkaS/13L0XXC5JYRkvDJ2ed5AflRBa5\n8nhndLKR9PIM9XdshcEOkopoS1vfA+qHrKz+Ek3DaWMkFYC7F9fF0JMqOO6MZgH3\ny68dO9Ap7o+bEs6i86l+awFWWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "financialdata@financial-dataanalysis.iam.gserviceaccount.com",
+  "client_id": "102009449057846265482",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/financialdata%40financial-dataanalysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
